@@ -1,0 +1,8 @@
+pytest
+requests
+pytest-html
+python-dotenv
+numpy
+locust
+fastapi
+uvicorn
