@@ -23,5 +23,5 @@ python benchmark.py
 Load test:
 locust -f locustfile.py --host http://127.0.0.1:8000
 
-## Interview explanation
-I built a Python API automation framework using Requests and PyTest. It has a reusable API client, configuration through environment variables, positive and negative tests, logging, HTML reporting, performance benchmarking with average/P50/P95/P99/throughput, Locust load testing, and GitHub Actions CI.
+## Description
+Built a Python API automation framework using Requests and PyTest. It has a reusable API client, configuration through environment variables, positive and negative tests, logging, HTML reporting, performance benchmarking with average/P50/P95/P99/throughput, Locust load testing, and GitHub Actions CI.
